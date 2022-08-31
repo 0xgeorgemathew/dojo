@@ -1,2 +1,0 @@
-# dojo
-dojo demo
